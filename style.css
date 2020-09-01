@@ -1,0 +1,49 @@
+table {
+  border-style: solid;
+
+ }
+
+tr:first-child {
+  width: 20%;
+}
+
+.tapis {
+/* color:black;
+background-color:white;
+background-image:url(img/fond.png); */
+}
+
+td,tr,th {
+border-style: solid;
+text-align: left;
+background-color: white;
+ }
+
+.boutonLancer{
+  text-align: left;
+}
+
+.verrouiller {
+  border: 1px solid;
+  border-color:red;
+}
+
+.possibilite{
+  background-color: #66ffff;
+}
+
+.caseGrise{
+  background-color: #DCDCDC;
+}
+
+.enAttente{
+
+}
+
+.valide{
+
+}
+
+.texte{
+  font-size: 30px;
+}
